@@ -340,9 +340,10 @@ body {
   .apart h2 {
     font-weight: 600;
     font-size: 16px; }
-    .apart h2 span {
+    .apart h2 span a {
       font-weight: 300;
-      color: #1cabec; }
+      color: #1cabec;
+      text-decoration: none; }
   .apart__photos {
     display: -webkit-box;
     display: -ms-flexbox;
